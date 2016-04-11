@@ -1,0 +1,6 @@
+{
+  "name": "Code4qa.GitHub.io",
+  "tagline": "Code for QA",
+  "body": "# Creating QA Web Page Test Automation Processes Using Java, Selenium, TestNG, Log4J, Properties and JXL\r\n\r\n## For the Initial automation of the testing of web sites, I use the following techniques:\r\n\r\n* Create a **Page Object Model** of Java Classes for each web page and Methods for each field, and Classes of Actions. \r\n* Use the **Selenium Web Driver** to navigate through the web site using the *Page Object Model*.\r\n* Drive the automated tests using **TestNG** for tests in sequence or randomly with automatic report generation.\r\n* Keep detailed logs in files and summary logs shown on the console using **Log4J**.\r\n* Configure the tests for multiple environments using **Java Properties** files.\r\n\r\n## For more advanced features:\r\n\r\n* Write test results to Excel Spreadsheets using the Java Library **JXL**, create the spreadsheets too.\r\n* **Read test data** from Excel Spreadsheets to drive the *TestNG* tests using *JXL*.\r\n* Automatically populate test data in test actions from properties using **Java Introspection**. \r\n* **Generate emails** with attachments of screen shots, TestNG reports and log files.\r\n\r\n\r\n\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
